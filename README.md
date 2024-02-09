@@ -25,6 +25,8 @@
 ## Papers/reading
 | Name(link) | Use/Info | Note |
 | --- | --- | --- |
+| [Scopus](https://www.elsevier.com/products/scopus) | Search and review papers |   |
+| [Zotero](https://www.zotero.org/) | Collect papers, highlight |   |
 | [Researcher App](https://www.researcher-app.com/) | Keep uptodate with papers |   |
 | [ResearchRabbit](https://www.researchrabbit.ai/) | Spotify for papers |  |
 | [Mendely](https://www.mendeley.com/) | Reference manager |  |
