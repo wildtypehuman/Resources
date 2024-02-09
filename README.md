@@ -25,6 +25,7 @@
 ## Papers/reading
 | Name(link) | Use/Info | Note |
 | --- | --- | --- |
+| [Instapaper](https://www.instapaper.com/) | Save papers |   |
 | [Scopus](https://www.elsevier.com/products/scopus) | Search and review papers |   |
 | [Zotero](https://www.zotero.org/) | Collect papers, highlight |   |
 | [Researcher App](https://www.researcher-app.com/) | Keep uptodate with papers |   |
